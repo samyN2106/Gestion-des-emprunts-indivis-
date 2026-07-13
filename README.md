@@ -17,4 +17,11 @@ Alors c'est là qu'intervient ce site, qui permet non seulememt aux organisation
 - javascript
 - laravel
 - Docker
- 
+
+## Aperçu
+![Page de gestion des clients](assets/images/gestion-des-clients.png)
+![Page de gestion du tableau d'amortissement](assets/images/gestion-du-tableau-d'amortissement.png)
+![Page de gestion des prets en cours](assets/images/gestion-des-prets-en-cour.png)
+![Page de gestion attribution de pret](assets/images/attribution-de-pret.png)
+![Page de gestion ajoout de client](assets/images/ajout-de-client.png)
+
