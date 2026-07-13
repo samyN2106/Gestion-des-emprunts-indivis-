@@ -5,16 +5,16 @@ Alors c'est là qu'intervient ce site, qui permet non seulememt aux organisation
 
 
 ## Fonctionnalités
--Authentification
--Gestion des clients(empreunteurs)
--Gestion des prêts accordés
--Gestion du tableau d'amortissement et du delais de remboursement selon le mode choisi par le client 
--Tableau de bord 
+- Authentification
+- Gestion des clients(empreunteurs)
+- Gestion des prêts accordés
+- Gestion du tableau d'amortissement et du delais de remboursement selon le mode choisi par le client 
+- Tableau de bord 
 
 ## Technologies
--Html
--css
--javascript
--laravel
+- Html
+- css
+- javascript
+- laravel
 
  
